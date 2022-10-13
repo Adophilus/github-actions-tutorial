@@ -1,3 +1,5 @@
+# The Basics
+
 ## Advantages of GitHub Actions
 - fully integrated with GitHub
 - respond to any GitHub event
